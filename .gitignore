@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Instructor materials
+Lectures/
+Assignment1.pdf
+Assignment2.pdf
+Assignment3.pdf
+Problems.pdf
+Assignment_2/AER1416_Assignment_2.pdf
